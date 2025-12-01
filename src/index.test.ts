@@ -1,4 +1,4 @@
-import { ArgsToMap } from "./args-to-map.js";
+import { ArgsToMap } from "./index";
 
 describe('args-to-map', () => {
   describe('no type conversions', () => {
